@@ -1,0 +1,16 @@
+{
+  "name": "react-falcor-playground",
+  "version": "1.0.0",
+  "description": "An react based app to explore Falcor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "falcor",
+    "webpack"
+  ],
+  "author": "Marin Gerov",
+  "license": "ISC"
+}
