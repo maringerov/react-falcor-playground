@@ -4,7 +4,7 @@
   "description": "An react based app to explore Falcor",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "webpack": "webpack -w"
   },
   "keywords": [
     "react",
