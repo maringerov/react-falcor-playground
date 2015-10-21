@@ -7,7 +7,7 @@ module.exports = {
     loaders: [
       {
         test: /\.js/,
-        loader: 'babel',
+        loader: 'babel?optional[]=runtime&stage=0',
         exclude: /node_modules/
       }
     ]
